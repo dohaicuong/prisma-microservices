@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
   "name": "post-service",
   "version": "1.0.0",
   "main": "index.js",

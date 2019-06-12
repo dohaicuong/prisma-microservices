@@ -1,5 +1,3 @@
 # prisma microservices with new apollo
-## gateway
 
-
-## services
+Install dependencies and run the gateway and two services

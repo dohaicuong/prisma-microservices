@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "node index.js"
+    "start": "node index",
+    "dev": "nodemon index"
   },
   "name": "account-services",
   "version": "1.0.0",
